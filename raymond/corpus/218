@@ -1,0 +1,4 @@
+Dudes:
+{{#dudes}}
+  {{>dude}}
+{{/dudes}}

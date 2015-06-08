@@ -1,0 +1,1 @@
+{{blog (equal (equal true true) true fun='yes')}}

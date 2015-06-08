@@ -1,0 +1,1 @@
+{{input aria-label=(t "Name") placeholder=(t "Example User")}}

@@ -1,0 +1,1 @@
+{{#form yehuda/cat}}<p>{{name}}</p>{{/form}}

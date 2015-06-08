@@ -1,0 +1,1 @@
+{{blog fun=(equal (blog fun=1) 'val is 1')}}

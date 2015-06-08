@@ -1,0 +1,5 @@
+{{#people}}
+{{name}}
+{{else if none}}
+{{none}}
+{{/people}}

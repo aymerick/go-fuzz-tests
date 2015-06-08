@@ -1,0 +1,1 @@
+Goodbye {{#iter}}{{cruel}} {{world}}{{/iter}}!

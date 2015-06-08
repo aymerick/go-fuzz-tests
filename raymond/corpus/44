@@ -1,0 +1,1 @@
+{{#with value}}{{#../awesome 1}}inner {{.}}{{/../awesome}}{{/with}}

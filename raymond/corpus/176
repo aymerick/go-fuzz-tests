@@ -1,0 +1,1 @@
+{{#list people}}{{name}}{{^}}<em>Nobody's here</em>{{/list}}

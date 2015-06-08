@@ -1,0 +1,1 @@
+{{#list people}}Hello{{^}}{{message}}{{/list}}
